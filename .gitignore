@@ -1,3 +1,29 @@
+  GNU nano 2.8.7                   File: .gitignore
+
+
+# Created by https://www.gitignore.io/api/c++,visualstudio
+
+### C++ ###
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+                               [ Read 341 lines ]
+^G Get Help  ^O Write Out ^W Where Is  ^K Cut Text  ^J Justify   ^C Cur 
+Pos
+^X Exit      ^R Read File ^\ Replace   ^U Uncut Text^T To Spell  ^_ Go 
+To Line
 
 # Created by https://www.gitignore.io/api/c++,visualstudio
 
