@@ -1,0 +1,3 @@
+﻿  StringFunctions.cpp
+c:\users\mark-windows10\source\repos\stringfunctions\stringfunctions\stringfunctions.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  StringFunctions.vcxproj -> c:\users\mark-windows10\source\repos\StringFunctions\Debug\StringFunctions.exe
